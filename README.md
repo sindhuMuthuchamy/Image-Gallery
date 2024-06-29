@@ -4,7 +4,9 @@ Welcome to My Image Gallery Project
 
 ## Technologies Used
 HTML
+
 CSS Styling
+
 CSS Flex
 
 ## Categories:
