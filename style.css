@@ -55,6 +55,7 @@ body{
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
+    align-items:center;
     flex-wrap: wrap;
     flex-basis: 25%;
 }
