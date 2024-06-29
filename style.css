@@ -62,15 +62,18 @@ body{
 .images__nature__1, .images__nature__2, .images__nature__3, .images__nature__4{
     margin-top: 20px;
     border: solid black 2px;
+    align-items:center;
     height: 220px;
 }
 .images__nature__5, .images__nature__6, .images__nature__7, .images__nature__8{
     margin-top: 40px;
     border: solid black 2px;
+    align-items:center;
     height: 220px;
 }
 .images__nature__9, .images__nature__10, .images__nature__11, .images__nature__12{
     margin-top: 40px;
     border: solid black 2px;
+    align-items:center;
     height: 220px;
 }
