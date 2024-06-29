@@ -54,7 +54,7 @@ body{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    flex-basis: 20%;
+    flex-basis: 25%;
 }
 .images__nature__1, .images__nature__2, .images__nature__3, .images__nature__4{
     margin-top: 20px;
