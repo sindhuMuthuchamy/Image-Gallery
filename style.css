@@ -48,6 +48,8 @@ body{
 }
 .images{
     margin: 30px;
+    margin-left:20px;
+    margin-right:20px;
 }
 .images__nature{
     margin-top: 20px;
